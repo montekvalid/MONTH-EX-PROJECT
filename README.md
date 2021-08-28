@@ -1,8 +1,8 @@
-<h1 align="centre">🎵 Geez Music Projects 🎵</h1>
+<h1 align="centre">🎵 FREE Music Projects 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@GeezMusicBot](https://t.me/GeezMusicBot)
+### Available on telegram as [@IntelMusic_BOT](https://t.me/IntelMusic_BOT)
 
 <p align="center">
   <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
@@ -24,23 +24,23 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/vckyou/Geez-MusicProject
-$ cd Geez-MusicProject
+$ git clone https://github.com/montekvalid/Free-MusicProject
+$ cd Free-MusicProject
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m GeezProject
-```
+$ python(3) -m Free-MusicProject
+``
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vckyou/Geez-MusicProject/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/montekvalid/Free-MusicProject/tree/master)
 
 Get pyrogram (p)  `SESSION` from here:
-[![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
+[![Run on Repl.it](https://repl.it/badge/github/montek/PyrogramString)](https://repl.it/@montek/PyrogramString?lite=1&outputonly=1)
 
 ### Commands for Group 🛠
 #### For all in group
@@ -80,7 +80,7 @@ Don't edit this part
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
 This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Geez Music won't exist. 
-Geez-Project is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
+Free-Project is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
 
 #### Contribtors
 - [Vicky](https://github.com/Vckyou): Dev
